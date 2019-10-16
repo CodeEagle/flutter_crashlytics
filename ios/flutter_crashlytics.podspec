@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 Flutter plugin to enable Crashlytics reporting.
                        DESC
   s.homepage         = 'https://github.com/CodeEagle/flutter_crashlytics.git'
-  s.license          = { :file => '../LICENSE' }
+  s.license          = { :file => 'LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { "git" => "https://github.com/CodeEagle/flutter_crashlytics.git", }
   s.source_files = 'ios/Classes/**/*'
